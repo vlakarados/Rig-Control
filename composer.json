@@ -1,0 +1,11 @@
+{
+    "name": "vlakarados/rig-control",
+    "description": "Controller package of Rig",
+    "authors": [
+        {
+            "name": "Sergey Telshevsky",
+            "email": "vlakarados@gmail.com"
+        }
+    ],
+    "require": {}
+}
