@@ -7,7 +7,9 @@
             "email": "vlakarados@gmail.com"
         }
     ],
-    "require": {
-        "Rig\\Control\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "Rig\\Control\\": "src/"
+        }
     }
 }
